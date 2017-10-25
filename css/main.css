@@ -8,13 +8,15 @@ html {
 
 h1 {
   text-align: center;
-  font-family: Bevan, cursive;
+  font-family: Bevan, serif;
   color: #fff;
-  margin: .3em;
+  margin: 0;
 }
 
 ul {
   list-style-type: none;
+  margin: .3em;
+  padding: 0;
 }
 
 a {
@@ -24,6 +26,8 @@ a {
   border-radius: .5em;
   color: #fff;
   font-family: sans-serif;
+  display: inline-block;
+  margin: .1em .1em .3em;
 }
 
 header {
@@ -46,10 +50,9 @@ a:hover {
 
 nav li {
   display: inline-block;
-  margin: .3em;
 }
 
 nav {
   text-align: center;
-  margin: .3em;
+
 }
