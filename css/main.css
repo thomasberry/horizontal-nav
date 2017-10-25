@@ -8,9 +8,9 @@ html {
 
 h1 {
   text-align: center;
-  font-family: "Bevan", cursive;
+  font-family: Bevan, cursive;
   color: #fff;
-  margin: 0.3em;
+  margin: .3em;
 }
 
 ul {
@@ -27,7 +27,7 @@ a {
 }
 
 header {
-  background-color: #76756f;
+  background-color: #79756f;
   border-style: solid;
   border-width: 4px;
   border-color: #595652;
@@ -45,11 +45,11 @@ a:hover {
 }
 
 nav li {
-    display: inline-block;
-
+  display: inline-block;
+  margin: .3em;
 }
 
 nav {
-    text-align: center;
-    margin: .3em;
+  text-align: center;
+  margin: .3em;
 }
